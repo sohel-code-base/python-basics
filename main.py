@@ -25,3 +25,25 @@ print("320", int("320"))
 print(str(20))
 print(str(20.45))
 print(type(str(20.45)))
+
+
+# variable
+text = "Some text here"
+print(text)
+
+m = 40
+n = 20
+
+pi = 3.1416
+
+print(m+n)
+print(m-n)
+
+print(type(pi))
+
+abc = 10
+Abc = "text"
+aBc = 5.80
+print(abc, Abc, aBc)
+
+print(len(Abc))
