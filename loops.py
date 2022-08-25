@@ -1,2 +1,2 @@
-for _ in range(3):
-    print("Hello python")
+for item in range(3):
+    print(item, ". Hello python")
